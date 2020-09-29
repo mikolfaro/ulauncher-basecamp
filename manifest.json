@@ -1,0 +1,19 @@
+{
+	"required_api_version": "^2.0.0",
+	"name": "Basecamp",
+	"description": "Basecamp quick open",
+	"developer_name": "Mikol Faro",
+	"icon": "images/icon.png",
+	"options": {
+		"query_debounce": 1
+	},
+	"preferences": [
+		{
+			"id": "basecamp_kw",
+			"type": "keyword",
+			"name": "Basecamp",
+			"description": "Basecamp",
+			"default_value": "bc"
+		}
+	]
+}
