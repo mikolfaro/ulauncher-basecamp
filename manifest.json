@@ -14,6 +14,12 @@
 			"name": "Basecamp",
 			"description": "Basecamp",
 			"default_value": "bc"
+		},
+		{
+			"id": "basecamp_browser",
+			"type": "input",
+			"name": "Preferred browser",
+			"description": "Preferred browser executable path, leave empty for system default"
 		}
 	]
 }
